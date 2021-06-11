@@ -8,9 +8,7 @@ published: true
 
 ### Background
 
-I am a native New Yorker who holds an MBA in International business as well as formal training in culinary arts and filmmaking.  Throughout my career I have always relied on my business acumen to forge a path forward whether I am in the US or here in Europe.
-
-The path towards data science encompasses a multiple discipline approach that blends all my experiences in a way that yield a unique insight that can be both creative and pragmatic.
+During my career I have continued to improve how to communicate with various stakeholders.  As well as developing software engineering skills that are essential for data scientists, such as creating unit tests and building classes.  By working with data through the entire data science process, from running pipelines, transforming data, building models, and deploying solutions to the cloud.  Navigating hands on experience with designing experiments and analyze A/B test results. Explore approaches for building recommendation systems.
 
 Using analytical skills combined communication with C-suite I have been able to successful build a career in the US and Europe.  Over the past year I have completed my certification to become a Data Scientist with hands on training in end-to-end machine learning process. My goal is to apply a combination of communication, technical knowledge to not only gather data but to analyze data based on the specific needs and goals of an organization to achieve a desired objective.
 
@@ -24,4 +22,3 @@ As a manager I have specialized in change management, targeting underperforming 
 - Data Analysis
 - Human Resources Information Technology  
 - Data Science
-

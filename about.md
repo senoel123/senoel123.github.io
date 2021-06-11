@@ -1,12 +1,9 @@
 ---
 layout: page
-title: About Me
+title: Background
 permalink: /about/
 published: true
 ---
-
-### Background
-
 During my career I have continued to improve how to communicate with various stakeholders.  As well as developing software engineering skills that are essential for data scientists, such as creating unit tests and building classes.  By working with data through the entire data science process, from running pipelines, transforming data, building models, and deploying solutions to the cloud.  Navigating hands on experience with designing experiments and analyze A/B test results. Explore approaches for building recommendation systems.
 ![data_sceince_gen.jpeg]({{site.baseurl}}/data_sceince_gen.jpeg)
 

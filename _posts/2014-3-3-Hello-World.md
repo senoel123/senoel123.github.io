@@ -4,6 +4,7 @@ title: Welcome
 published: true
 ---
 
-During my career I have continued to improve how to communicate with various stakeholders.  As well as developing software engineering skills that are essential for data scientists, such as creating unit tests and building classes.  By working with data through the entire data science process, from running pipelines, transforming data, building models, and deploying solutions to the cloud.  Navigating hands on experience with designing experiments and analyze A/B test results. Explore approaches for building recommendation systems.
-![4_Types_of_Data_Analytics.jpg]({{site.baseurl}}/_posts/4_Types_of_Data_Analytics.jpg)
+I am a native New Yorker who holds an MBA in International business as well as formal training in culinary arts and filmmaking.  Throughout my career I have always relied on my business acumen to forge a path forward whether I am in the US or here in Europe.
 
+![4_Types_of_Data_Analytics.jpg]({{site.baseurl}}/_posts/4_Types_of_Data_Analytics.jpg)
+The path towards data science encompasses a multiple discipline approach that blends all my experiences in a way that yield a unique insight that can be both creative and pragmatic.

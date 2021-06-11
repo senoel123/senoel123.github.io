@@ -3,9 +3,7 @@ layout: post
 title: Welcome
 published: true
 ---
+I am a native New Yorker who holds an MBA in International business as well as formal training in culinary arts and filmmaking.  Throughout my career I have always relied on my business acumen to forge a path forward whether I am in the US or here in Europe'.![20120816_003411.jpg]({{site.baseurl}}/_posts/20120816_003411.jpg)
 
-I am a native New Yorker who holds an MBA in International business as well as formal training in culinary arts and filmmaking.  Throughout my career I have always relied on my business acumen to forge a path forward whether I am in the US or here in Europe.
-
-![Choosing_Dev_Laptop.jpg]({{site.baseurl}}/_posts/Choosing_Dev_Laptop.jpg)
 
 The path towards data science encompasses a multiple discipline approach that blends all my experiences in a way that yield a unique insight that can be both creative and pragmatic.

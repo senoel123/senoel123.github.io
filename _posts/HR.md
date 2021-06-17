@@ -5,4 +5,17 @@ published: true
 ---
 This topic has is a topic that I have a high interest in.  I started  looking at the numbers as reported by the [World Economic Forum](https://www.weforum.org/reports/gender-gap-2020-report-100-years-pay-equality/digest) which stated that Western Europe has made the most progress on gender parity (standing at 76.7%), followed by North America (72.9%), Latin America and the Caribbean (72.2%), Eastern Europe and Central Asia (71.3%), Sub-Saharan Africa (68.2%), South Asia (66.1%) and the Middle East and North Africa (60.5%).  
 
-When I came across a large Human Resources dataset I wanted analyze the number to see if that aligned with what was reported in 2020. As with most datasets I have to to become familiar with dataset.  After running Pandas Profile report I had a starting point to better undersatnd the data.
+When I came across a large Human Resources dataset I wanted analyze the number to see if that aligned with what was reported in 2020. As with most datasets I have to to become familiar with dataset.  After running Pandas Profile report I had a starting point to better understand the data.
+
+![]({{site.baseurl}}/http://localhost:8888/view/Human%20Resources%20Profiling%20Report.html)
+
+I want to breakdown the numbers and develop a better understand of the parity between men and women in this dataset.
+
+There seem to be a correlation between women and termination.  Given the well report effects of women leaving the job market due to not being to manage the balance between work and home life.  According to recent report by [Mckinsey & Company](https://www.mckinsey.com/featured-insights/future-of-work/covid-19-and-gender-equality-countering-the-regressive-effects), 'Women make up 39 percent of global employment but account for 54 percent of overall job losses'.
+
+I want to look at the reason why women left the job market.  In addition, I wanted to compare how satisfied with there job overall.
+
+
+Then, I wanted to exam thier performance rating and the types of jobs in the dataset.  Surprising there was a high level of parity in salary.  Most of the women remained in there positions while reporting a high level of job satifisfactions. In the reason given for leaving their jobs there are echoes of the reason given in the Mckensey report.  
+
+The salary level generally skewed on 50K with limited outlier.  I would be curious do these number hold up at higher salary levels as well as roles within the tech industry as a whole.

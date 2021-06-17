@@ -7,5 +7,5 @@ I am a native New Yorker who holds an MBA in International business as well as f
 
 ![DataSciba](/images/da_ba.jpg)
 
-KEY SKILLS AND CHARACTERISTICS 
+KEY SKILLS AND CHARACTERISTICS: 
 Python (Programming Language) • Machine Learning • R(Programming Language) •Data Science • Data Analysis • SQL • Statistics • Data Mining • Deep Learning • Spark

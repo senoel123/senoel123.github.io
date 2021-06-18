@@ -20,5 +20,9 @@ CITY COLLEGE - CCNY, NEW YORK, NEW YORK
 KEY SKILLS AND CHARACTERISTICS: 
 Python (Programming Language) • Machine Learning • R(Programming Language) •Data Science • Data Analysis • SQL • Statistics • Data Mining • Deep Learning • Spark
 
-To download my here <embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://github.com/senoel123/senoel123.github.io/raw/master/CV%20IT%20SEN%20ver%20fin.pdff" width="500" height="375">.
+To download my here <object data="https://github.com/senoel123/senoel123.github.io/raw/master/CV%20IT%20SEN%20ver%20fin.pdf” type="application/pdf" width="750px" height="750px">
+    <embed src="https://github.com/senoel123/senoel123.github.io/raw/master/CV%20IT%20SEN%20ver%20fin.pdf" type="application/pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/senoel123/senoel123.github.io/raw/master/CV%20IT%20SEN%20ver%20fin.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+.

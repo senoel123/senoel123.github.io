@@ -21,4 +21,4 @@ KEY SKILLS AND CHARACTERISTICS:
 Python (Programming Language) • Machine Learning • R(Programming Language) •Data Science • Data Analysis • SQL • Statistics • Data Mining • Deep Learning • Spark
 
 To see my [CV](https://github.com/senoel123/senoel123.github.io/raw/master/CV_SEN.pdf).
-.
+

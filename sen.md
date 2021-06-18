@@ -20,4 +20,4 @@ CITY COLLEGE - CCNY, NEW YORK, NEW YORK
 KEY SKILLS AND CHARACTERISTICS: 
 Python (Programming Language) • Machine Learning • R(Programming Language) •Data Science • Data Analysis • SQL • Statistics • Data Mining • Deep Learning • Spark
 
-To vie my full [cv](<embed src="https://senoel123.github.ioCV IT SEN ver fin/.pdf" type="application/pdf" /> "CV").
+To vie my full [cv](<embed src="https://senoel123.github.io/CV IT SEN ver fin/.pdf" type="application/pdf" /> "CV").

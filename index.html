@@ -1,23 +1,23 @@
-<!doctype html>
-<head>
-  <meta charset="utf-8">
-  <meta name="description" content="">
+---
+	layout: default
+	---
+	
 
-  <title></title>
+	<div class="posts">
+	  {% for post in site.posts %}
+	    <article class="post">
+	
 
-  <link rel="stylesheet" href="http://yui.yahooapis.com/3.5.1/build/cssreset/cssreset-min.css">
-  <link rel="stylesheet" href="styles.css">
-  
-</head>
-<body>
-    <section id="header">
-    </section>
+	      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+	
 
-    <section id="main">
-    </section>
+	      <div class="entry">
+	        {{ post.excerpt }}
+	      </div>
+	
 
-    <section id="footer">
-    </section>
-    
-</body>
-</html>
+	      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+	    </article>
+	  {% endfor %}
+	</div
+

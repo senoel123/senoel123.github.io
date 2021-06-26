@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bio
+title: About me
 published: true
 ---
 

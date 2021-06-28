@@ -29,7 +29,7 @@ footer-links:
   instagram: semone_noel
   linkedin: www.linkedin.com/in/semone-noel-26b76351
   pinterest:
-  rss: dataconomy.com/feed
+  rss: indatalabs.com/blog/feed
   twitter:  
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -49,7 +49,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: dataconomy.com/feed
+url: senoel123/senoel123.github.io
 
 
 # If you're hosting your site at a Project repository on GitHub pages

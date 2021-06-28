@@ -4,8 +4,8 @@ title: Experience
 published: true
 ---
 
- ### How did I get here... 
-
+How did I get here... 
+---
 My path towards data science encompassed a multiple discipline approach that blended all my business and create experiences in a way that combines meaningful elements as well as building visual frameworks which is integral to my approach. Studying for multiple certifications in data science I relied o nmy MBA in International business as well as formal training in culinary arts and filmmaking to take a different approach.  Throughout my career I have always relied on my business acumen to forge a path forward whether I am in the US or here in Europe.
 
 ![image](/images/Data_Science_Possible_Roles_fin.jpg)

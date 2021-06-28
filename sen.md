@@ -27,5 +27,5 @@ KEY SKILLS:
 Python (Programming Language) • Machine Learning • R(Programming Language) •Data Science • Data Analysis • SQL • Statistics • Data Mining • Deep Learning • Spark
 
 Please click on link to download my [CV](https://github.com/senoel123/senoel123.github.io/raw/master/CV_SEN.pdf).
-Please click on link to download my [Certifications list](https://github.com/senoel123/senoel123.github.io/raw/master/Data_Quest_Certifications.pdf)
+Please click on link to download my [Certifications](https://github.com/senoel123/senoel123.github.io/raw/master/Data_Quest_Certifications.pdf)
 

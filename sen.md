@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exepreince
+title: Exeprience
 published: true
 ---
 

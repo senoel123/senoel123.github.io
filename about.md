@@ -6,7 +6,8 @@ published: true
 ---
 ### Philosophy 
 ---
-<img align="right" src="images/sen_web_pic.jpg" width="200"> As a manager I have specialized in change management, targeting underperforming teams.  Using analytical skills combined communication with C-suite I have been able to successful build a career in the US and Europe.  Over the past year I have completed my certification to become a Data Scientist with hands on training in end-to-end machine learning process. My goal is to apply a combination of communication, technical knowledge to not only gather data but to analyze data based on the specific needs and goals of an organization to achieve a desired objective.
+<img align="right" src="images/sen_web_pic.jpg![sen_web_pic](https://user-images.githubusercontent.com/83288846/126304185-760bd78f-d7b7-4775-96ac-6db8f3014a6d.jpg)
+" width="200"> As a manager I have specialized in change management, targeting underperforming teams.  Using analytical skills combined communication with C-suite I have been able to successful build a career in the US and Europe.  Over the past year I have completed my certification to become a Data Scientist with hands on training in end-to-end machine learning process. My goal is to apply a combination of communication, technical knowledge to not only gather data but to analyze data based on the specific needs and goals of an organization to achieve a desired objective.
 
 ---
 ### Why Data Science

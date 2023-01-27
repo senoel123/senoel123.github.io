@@ -9,13 +9,12 @@ My path towards data science encompassed a multiple discipline approach that ble
 
 Making use of the ability to look a data from a holistic perspective allows me to see niche areas that can have a solid impact on ROI and strategic organizational goals.  This, combined with my business partnership experience, allows me to communicate technical concepts in relatable nontechnical ways to increase broader understanding across all business units top-down, bottom-up, and 360. 
 
-Generally, I seek out projects that require a new skill to learn or improve upon. The projects that generate the most enthusiasm are autonomous and collaborative elements that utilize my experience in data analytics, HRIS, full-cycle recruitment, HR management, and client management.
-
 ![image](/images/Data_Science_Possible_Roles_fin.jpg)
 
 DATA ANALTYICS VOLUNTEER PROJECTS
 ---
 ACDC - BOARD MEMBER PROSPECTING (2023)
+
 LOVE.FÙTBOL – BOARD MEMBER PROSPECTING (2023)
 
 EDUCATION

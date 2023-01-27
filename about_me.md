@@ -11,6 +11,8 @@ Making use of the ability to look a data from a holistic perspective allows me t
 
 Generally, I seek out projects that require a new skill to learn or improve upon. The projects that generate the most enthusiasm are autonomous and collaborative elements that utilize my experience in data analytics, HRIS, full-cycle recruitment, HR management, and client management.
 
+![image](/images/Data_Science_Possible_Roles_fin.jpg)
+
 DATA ANALTYICS VOLUNTEER PROJECTS
 ---
 ACDC - BOARD MEMBER PROSPECTING (2023)
@@ -27,12 +29,11 @@ CITY COLLEGE - CCNY, NEW YORK, NEW YORK
 
 TOOLS
 ---
-•	EXCEL •	POSTGRE SQL •	JUPYTER NOTEBOOK •	PYTHON •	TABLEAU •	GITHUB
+EXCEL •	POSTGRE SQL •	JUPYTER NOTEBOOK •	PYTHON •	TABLEAU •	GITHUB
 
 KEY SKILLS: 
 ---
-•	BUSINESS UNDERSTANDING •	DESIGNING DATA RESEARCH •	PROJECT DATA PROFILING & INTEGRITY CHECKS •	 DATA QUALITY MEASURES (CLEANING) •	DATA INTEGRATION & TRANSFORMATION  STATISTICAL ANALYSIS •	STATISTICAL HYPOTHESIS TESTING •	DATA VISUALIZATION & STORYTELLING
+BUSINESS UNDERSTANDING •	DESIGNING DATA RESEARCH •	PROJECT DATA PROFILING & INTEGRITY CHECKS •	 DATA QUALITY MEASURES (CLEANING) •	DATA INTEGRATION & TRANSFORMATION  STATISTICAL ANALYSIS •	STATISTICAL HYPOTHESIS TESTING •	DATA VISUALIZATION & STORYTELLING
 
 Please click on link to download my [CV](https://github.com/senoel123/senoel123.github.io/raw/master/SEN_CV_7.pdf).
 
-![image](/images/Data_Science_Possible_Roles_fin.jpg)

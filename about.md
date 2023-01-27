@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Current Projects...
-permalink: /about/
-published: true
+title: Current Project
+permalink: /current_project/
 ---
-
 
 <img src="https://www.instacart.com/assets/beetstrap/brand/2022/instacart-logo-color-6678cb82d531f8910d5ba270a11a7e9b56fc261371bda42ea7a5abeff3492e1c.svg" width="600" height="100"  /> 
 

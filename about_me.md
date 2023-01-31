@@ -22,7 +22,7 @@ City College - CCNY, New York, New York
 
 TOOLS
 ---
-EXCEL •	Postgre SQL •	Jupyter Notebook •	Python •	TABLEAU •	GitHub
+Excel •	Postgre SQL •	Jupyter Notebook •	Python •	Tableau •	GitHub
 
 KEY SKILLS: 
 ---

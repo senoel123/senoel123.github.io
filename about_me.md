@@ -5,34 +5,37 @@ permalink: /about_me/
 published: true
 ---
 
-My path towards data analytics encompassed a multiple discipline approach that blended all my business and create experiences in a way that combines meaningful elements as well as building visual frameworks which is integral to my approach. Studying for multiple certifications in data science I relied on my MBA in International business as well as formal training in culinary arts and filmmaking to take a different approach.  Throughout my career I have always relied on my business acumen to forge a path forward whether I am in the US or here in Europe.
-
-Making use of the ability to look a data from a holistic perspective allows me to see niche areas that can have a solid impact on ROI and strategic organizational goals.  This, combined with my business partnership experience, allows me to communicate technical concepts in relatable nontechnical ways to increase broader understanding across all business units top-down, bottom-up, and 360. 
-
-![image](/images/Data_Science_Possible_Roles_fin.jpg)
-
-DATA ANALTYICS VOLUNTEER PROJECTS
+VOLUNTEER PROJECTS
 ---
-ACDC - BOARD MEMBER PROSPECTING (2023)
+ACDC - Board Menber Prospecting (2023)
 
-LOVE.FÙTBOL – BOARD MEMBER PROSPECTING (2023)
+LOVE.FÙTBOL – Board Menber Prospecting (2023)
 
 EDUCATION
 ---
  
-MBA INTERNATIONAL BUSINESS
-WOODBURY UNIVERSITY, BURBANK CALIFORNA,  
+MBA International Business
+Woodbury University, Burbank California,  
 
-BACHELORS SOCIAL SCIENCE
-CITY COLLEGE - CCNY, NEW YORK, NEW YORK
+Bachelors Social Science
+City College - CCNY, New York, New York
 
 TOOLS
 ---
-EXCEL •	POSTGRE SQL •	JUPYTER NOTEBOOK •	PYTHON •	TABLEAU •	GITHUB
+EXCEL •	Postgre SQL •	Jupyter Notebook •	Python •	TABLEAU •	GitHub
 
 KEY SKILLS: 
 ---
-BUSINESS UNDERSTANDING •	DESIGNING DATA RESEARCH •	PROJECT DATA PROFILING & INTEGRITY CHECKS •	 DATA QUALITY MEASURES (CLEANING) •	DATA INTEGRATION & TRANSFORMATION  STATISTICAL ANALYSIS •	STATISTICAL HYPOTHESIS TESTING •	DATA VISUALIZATION & STORYTELLING
+Business Understanding •	Desining Data Research •	Project Data Profiling & Integrity Checks •	 Data Quality Measures (Cleaning) •	Data Integration & Transformation • Statistical Analysis •	Statistical Hypothesis Testing •	Data Visualization & Storytelling
 
 Please click on link to download my [CV](https://github.com/senoel123/senoel123.github.io/raw/master/SEN_CV_7.pdf).
+
+## DATA ANALTYICS PROFILE
+
+As a data analyst I evaluate data to take actionable insights, with a background in HR management and recruitment. My core experienced in collecting and analyzing data to support startups and multinational organizations in making well-informed business decisions. My ability to stay ahead of the curve while building solid relationships based on shared knowledge has always allowed me to thrive.
+
+![image](/images/Data_Science_Possible_Roles_fin.jpg)
+
+
+
 

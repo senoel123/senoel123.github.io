@@ -5,6 +5,9 @@ permalink: /about_me/
 published: true
 ---
 
+## WORK EXPERIENCE
+---
+
 VOLUNTEER PROJECTS
 ---
 ACDC - Board Menber Prospecting (2023)

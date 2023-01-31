@@ -9,6 +9,17 @@ published: true
 ## WORK EXPERIENCE
 ---
 
+09/22 – 02/2023
+Student | Data Analytics | CAREER FOUNDRY
+
+02/22 – 08/2022
+Recruiting & H.R. Mgr. | CHORUS.ONE (Crypto Start-up)
+ 
+8/21 – 02/22
+SR. Recruiting | PADSPLIT (R.E. IT Start-up)
+ 
+2008-2013
+H.R. Generalist | NETFLIX (Entertainment IT)
 
 VOLUNTEER PROJECTS
 ---

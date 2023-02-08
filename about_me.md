@@ -5,9 +5,16 @@ permalink: /about_me/
 published: true
 ---
 
+## DATA ANALYTICS PROFILE
+
+As a data analyst I evaluate data to take actionable insights, with a background in HR management and recruitment. My core experienced in collecting and analyzing data to support startups and multinational organizations in making well-informed business decisions. My ability to stay ahead of the curve while building solid relationships based on shared knowledge has always allowed me to thrive.
+
+![image](/images/Data_Science_Possible_Roles_fin.jpg)
+
 ---
+
 ## WORK EXPERIENCE
----
+
 
 09/22 – 02/2023
 Student | Data Analytics | CAREERFOUNDRY
@@ -46,11 +53,7 @@ Business Understanding •	Desining Data Research •	Project Data Profiling & I
 
 Please click on link to download my [CV](https://github.com/senoel123/senoel123.github.io/raw/master/SEN_CV_7.pdf).
 
-## DATA ANALYTICS PROFILE
 
-As a data analyst I evaluate data to take actionable insights, with a background in HR management and recruitment. My core experienced in collecting and analyzing data to support startups and multinational organizations in making well-informed business decisions. My ability to stay ahead of the curve while building solid relationships based on shared knowledge has always allowed me to thrive.
-
-![image](/images/Data_Science_Possible_Roles_fin.jpg)
 
 
 

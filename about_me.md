@@ -8,6 +8,7 @@ published: true
 ---
 
 ## DATA ANALYTICS PROFILE
+---
 
 As a data analyst I evaluate data to take actionable insights, with a background in HR management and recruitment. My core experienced in collecting and analyzing data to support startups and multinational organizations in making well-informed business decisions. My ability to stay ahead of the curve while building solid relationships based on shared knowledge has always allowed me to thrive.
 

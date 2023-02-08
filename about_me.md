@@ -10,7 +10,7 @@ published: true
 ---
 
 09/22 – 02/2023
-Student | Data Analytics | CAREER FOUNDRY
+Student | Data Analytics | CAREERFOUNDRY
 
 02/22 – 08/2022
 Recruiting & H.R. Mgr. | CHORUS.ONE (Crypto Start-up)
@@ -46,7 +46,7 @@ Business Understanding •	Desining Data Research •	Project Data Profiling & I
 
 Please click on link to download my [CV](https://github.com/senoel123/senoel123.github.io/raw/master/SEN_CV_7.pdf).
 
-## DATA ANALTYICS PROFILE
+## DATA ANALYTICS PROFILE
 
 As a data analyst I evaluate data to take actionable insights, with a background in HR management and recruitment. My core experienced in collecting and analyzing data to support startups and multinational organizations in making well-informed business decisions. My ability to stay ahead of the curve while building solid relationships based on shared knowledge has always allowed me to thrive.
 

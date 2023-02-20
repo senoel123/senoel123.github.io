@@ -25,6 +25,10 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 - Where are Rockbuster customers with a high lifetime value based?
 - Do sales ﬁgures vary between geographic regions?
 ---
-**Repo**
+**Repos**
 
 Rockbuster [Repo](https://github.com/senoel123/SQL_Rockbuster_SEN) 
+Global layoffs [Repo](https://github.com/senoel123/Python_layoffs_trends)
+Instacart [Repo](https://github.com/senoel123/Instacart_project_SEN) 
+Influenza [Repo](https://github.com/senoel123/Influenza)
+

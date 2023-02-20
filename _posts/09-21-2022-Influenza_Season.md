@@ -19,4 +19,4 @@ The United States has an influenza season where more people than usual suffer fr
 
 ---
 **Repo**
-Instacart [Repo](https://github.com/senoel123/Influenza)
+Influenza [Repo](https://github.com/senoel123/Influenza)

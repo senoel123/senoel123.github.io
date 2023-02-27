@@ -56,6 +56,7 @@ Business Understanding •	Desining Data Research •	Project Data Profiling & I
 
 Please click on link to download my [CV](https://github.com/senoel123/senoel123.github.io/raw/master/SEN_CV_7.pdf).
 
+Please click on link to download my [PP Portfolio]( ).
 
 
 

@@ -4,7 +4,7 @@ title: Global Layoff Trends 2023
 published: true
 ---
 
-<img src= 'https://github.com/senoel123/Python_layoffs_trends/blob/main/industry_layoffs_67.png' width="400" align="right"  alt="hi" class="inline"/>
+<img src= 'https://github.com/senoel123/Python_layoffs_trends/blob/main/industry_layoffs_67.png' width="400" align="right"  class="inline"/>
 
 Over the past 3-5 years the global job market has been robust, especially in the US tech sector.  Over the past 3 months, there has been a steady succession of mass
 layoffs in the tech sectors from major companies such as Alphabet, Goldman Sachs, and Amazon. My concern is based on if this was a temporary downturn or a major market

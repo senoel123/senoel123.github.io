@@ -4,8 +4,6 @@ title: Global Layoff Trends 2023
 published: true
 ---
 
-<img src= 'https://github.com/senoel123/senoel123.github.io/blob/master/images/industry_layoffs_67.png' width="400" align="right" alt='hi'  class="inline"/>
-
 Over the past 3-5 years the global job market has been robust, especially in the US tech sector.  Over the past 3 months, there has been a steady succession of mass
 layoffs in the tech sectors from major companies such as Alphabet, Goldman Sachs, and Amazon. My concern is based on if this was a temporary downturn or a major market
 correction.
@@ -26,6 +24,9 @@ an international tech sector layoff external data available in Kaggle. Hypothesi
 -	Which industry has the most layoffs?
 -	Has all the information in the data set been consented to by the employees affected?
 -	Who can access the data? Is it completely public or are there any restrictions on who can access the data?
+
+
+![industry](https://github.com/senoel123/senoel123.github.io/blob/master/images/industry_layoffs_67.png)
 
 ---
 **Repo**

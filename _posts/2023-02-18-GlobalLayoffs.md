@@ -26,7 +26,7 @@ an international tech sector layoff external data available in Kaggle. Hypothesi
 -	Who can access the data? Is it completely public or are there any restrictions on who can access the data?
 
 
-![image](https://github.com/senoel123/senoel123.github.io/blob/master/images/industry_layoffs_67.png 'industry')
+![image](/images/industry_layoffs_67.png 'industry')  
 
 ---
 **Repo**

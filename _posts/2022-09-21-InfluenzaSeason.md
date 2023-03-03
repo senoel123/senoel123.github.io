@@ -19,7 +19,7 @@ The United States has an influenza season where more people than usual suffer fr
 
 ---
 
-<img src= 'https://github.com/senoel123/senoel123.github.io/blob/master/images/influenza.jpg' width="1000" align="right"  class="inline"/>
+![scatter](https://github.com/senoel123/senoel123.github.io/blob/master/images/influenza.jpg)   
 
 ---
 **Repo**

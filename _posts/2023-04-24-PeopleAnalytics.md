@@ -43,7 +43,7 @@ First, perform an initial and exploratory analysis of some of their data to deri
 - Average years between promotions?
   
   ---
-  <img src="https://github.com/senoel123/senoel123.github.io/blob/master/images/XYZ_People_Analytics_dashboard_3.jpg" width="750"/>
+  <img src="https://github.com/senoel123/senoel123.github.io/blob/master/images/XYZ_People_Analytics_dashboard_3.jpg" width="740"/>
   
 **Repo**
 People [Repo](https://github.com/senoel123/People_Analytics) 

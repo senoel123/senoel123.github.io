@@ -17,12 +17,10 @@ The management believes that this level of attrition (employees leaving, either 
 2.	A sizeable department has to be maintained, for the purpose of recruiting new talent
 3.	More often than not, the new employees have to be trained for the job and/or given time to acclimatize themselves to the company
 
-<div style="width:60px ; height:60px">
-    
-![dashboard_1](https://github.com/senoel123/senoel123.github.io/blob/master/images/XYZ_People_Analytics_dashboard_1.jpg?raw=true)  
+   
+<img src="https://github.com/senoel123/senoel123.github.io/blob/master/images/XYZ_People_Analytics_dashboard_1.jpg" width="650" height="480">
 
- <div>
-     
+  
 ---
 
 **Goals**
@@ -47,11 +45,9 @@ First, perform an initial and exploratory analysis of some of their data to deri
 - Average years between promotions?
   
   ---
-<div style="width:60px ; height:60px">
     
-![dashboard_3](https://github.com/senoel123/senoel123.github.io/blob/master/images/XYZ_People_Analytics_dashboard_3.jpg?raw=true)  
+<img src=https://github.com/senoel123/senoel123.github.io/blob/master/images/XYZ_People_Analytics_dashboard_3.jpg width="650" height="480">
 
- <div>
   
 **Repo**
 People [Repo](https://github.com/senoel123/People_Analytics) 

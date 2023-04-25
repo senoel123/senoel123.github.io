@@ -19,7 +19,7 @@ The United States has an influenza season where more people than usual suffer fr
 
 ---
 
-![sactter](/images/influenza.jpg)   
+![scatter](/images/influenza.jpg)   
 
 ---
 **Repo**

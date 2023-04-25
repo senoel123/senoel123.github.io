@@ -10,7 +10,7 @@ published: true
 ## DATA ANALYTICS PROFILE
 ---
 
-As a data analyst I evaluate data to take actionable insights, with a background in HR management and recruitment. My core experienced in collecting and analyzing data to support startups and multinational organizations in making well-informed business decisions. My ability to stay ahead of the curve while building solid relationships based on shared knowledge has always allowed me to thrive.
+I am a data anaylst with a background in HR and more than five years of experience working in both early start-up environments and large multinational organizations. As a data analyst, my experience includes analyzing and communicating technical information to non-technical audiences.
 
 ![image](/images/Data_Science_Possible_Roles_fin.jpg)
 
@@ -18,7 +18,9 @@ As a data analyst I evaluate data to take actionable insights, with a background
 
 ## WORK EXPERIENCE
 
-
+12/22 – 04/2023
+Volunteer | Data Analytics | LOVE.FÙTBOL
+ 
 09/22 – 02/2023
 Student | Data Analytics | CAREERFOUNDRY
 
@@ -35,7 +37,6 @@ VOLUNTEER PROJECTS
 ---
 ACDC - Board Menber Prospecting (2023)
 
-LOVE.FÙTBOL – Board Menber Prospecting (2023)
 
 EDUCATION
 ---
@@ -48,7 +49,7 @@ City College - CCNY, New York, New York
 
 TOOLS
 ---
-Excel •	Postgre SQL •	Jupyter Notebook •	Python •	Tableau •	GitHub
+Excel •	Postgre SQL •	Jupyter Notebook •	Python •	Tableau •	GitHub •	Data Studio
 
 KEY SKILLS: 
 ---

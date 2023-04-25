@@ -2,9 +2,11 @@
 layout: post
 title: People Analytics
 published: true
+
 ---
 
 A large company named XYZ, employs, at any given point of time, around 4000 employees.  However, every year, around 15% of its employees leave the company and need to be replaced with the talent pool available in the job market.
+
 ---
 
 **Project**
@@ -14,6 +16,8 @@ The management believes that this level of attrition (employees leaving, either 
 1.	The former employees’ projects get delayed, which makes it difficult to meet timelines, resulting in a reputation loss among consumers and partners
 2.	A sizeable department has to be maintained, for the purpose of recruiting new talent
 3.	More often than not, the new employees have to be trained for the job and/or given time to acclimatize themselves to the company
+
+<img src="https://github.com/senoel123/senoel123.github.io/blob/master/images/XYZ_People_Analytics_dashboard_1.jpg" alt="hi" class="inline"/>
 
 ---
 
@@ -26,19 +30,20 @@ First, perform an initial and exploratory analysis of some of their data to deri
 **Key Questions**
 
 
-- 1.	What are the max and min job involvement levels?
-- 2.	What is the average tenure of employees?
-- 3.	What are the average job satisfaction levels?
--     a.	Does it vary by role?
--     b.	What roles have the lowest job satisfaction levels?
-- 4.	What are the average performance ratings?
-- 5.	What are the average relationship levels?
-- 6.	What is the average working hours?
-- 7.	What is the bell curve for work-life balance?
-- 8.	What is the average time with one manager?
-- 9.	Average years between promotions?
+- What are the max and min job involvement levels?
+- What is the average tenure of employees?
+- What are the average job satisfaction levels?
+    a.	Does it vary by role?
+    b.	What roles have the lowest job satisfaction levels?
+- What are the average performance ratings?
+- What are the average relationship levels?
+- What is the average working hours?
+- What is the bell curve for work-life balance?
+- What is the average time with one manager?
+- Average years between promotions?
   
   ---
+  <img src="https://github.com/senoel123/senoel123.github.io/blob/master/images/XYZ_People_Analytics_dashboard_3.jpg" alt="hi" class="inline"/>
   
 **Repo**
 People [Repo](https://github.com/senoel123/People_Analytics) 

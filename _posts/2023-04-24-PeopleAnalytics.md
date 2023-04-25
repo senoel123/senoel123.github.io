@@ -46,7 +46,7 @@ First, perform an initial and exploratory analysis of some of their data to deri
   
   ---
     
-<img src="https://github.com/senoel123/senoel123.github.io/blob/master/images/XYZPeopleAnalyticsdashboard3.jpg" width="650" height="480">
+<img src="https://github.com/senoel123/senoel123.github.io/blob/master/images/XYZPeopleAnalyticsdashboard3.jpg" width="640" height="480">
 
   
 **Repo**

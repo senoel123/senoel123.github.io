@@ -18,7 +18,7 @@ The management believes that this level of attrition (employees leaving, either 
 3.	More often than not, the new employees have to be trained for the job and/or given time to acclimatize themselves to the company
 
    
-<img src="https://github.com/senoel123/senoel123.github.io/blob/master/images/XYZ_People_Analytics_dashboard_1.jpg" width="650" height="480">
+<img src="https://github.com/senoel123/senoel123.github.io/blob/master/images/XYZPeopleAnalyticsdashboard1.jpg" width="650" height="480">
 
   
 ---
@@ -46,7 +46,7 @@ First, perform an initial and exploratory analysis of some of their data to deri
   
   ---
     
-<img src="https://github.com/senoel123/senoel123.github.io/blob/master/images/XYZ_People_Analytics_dashboard_3.jpg" width="650" height="480">
+<img src="https://github.com/senoel123/senoel123.github.io/blob/master/images/XYZPeopleAnalyticsdashboard3.jpg" width="650" height="480">
 
   
 **Repo**

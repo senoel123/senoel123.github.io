@@ -10,7 +10,8 @@ Rockbuster Stealth, LLC is a movie rental company that used to have stores aroun
 
 **Objectives**
 
-As a data analyst in Rockbuster Stealth’s business intelligence  (BI)  department to help with the launch strategy for the new online video service.  The BI department helps other departments, from inventory to customer insights, with data-related queries.   My ﬁrst task is to load all of Rockbuster’s data into a relational database management system  (RDBMS).   Then, I used SQL to analyze the data and answer any ad-hoc business questions that other departments may have.
+As a member of Rockbuster Stealth's Business Intelligence (BI) department, my role as a data analyst involves aiding in the launch strategy for the company's new online video service. Our BI department is responsible for addressing data-related queries from various departments ranging from inventory to customer insights.
+One of my primary responsibilities was to load all of Rockbuster's data into a Relational Database Management System (RDBMS). Once the data was loaded, I utilized SQL to analyze and provide answers to ad-hoc business questions posed by other departments.
 
 ---
 **Key Questions** 
@@ -24,6 +25,7 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 - Which countries are Rockbuster customers based in?
 - Where are Rockbuster customers with a high lifetime value based?
 - Do sales ﬁgures vary between geographic regions?
+
 ---
 **Repos**
 

@@ -18,6 +18,9 @@ I am a data anaylst with a background in HR and more than five years of experien
 
 ## WORK EXPERIENCE
 
+2019 - Till date
+Freelance | Business Analyst 
+
 12/22 – 04/2023
 Volunteer | Data Analytics | LOVE.FÙTBOL
  

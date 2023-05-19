@@ -18,17 +18,17 @@ I am a data anaylst with a background in HR and more than five years of experien
 
 ## WORK EXPERIENCE
 
+2019 - Till date
+Freelance | Business Analyst
+
 12/22 – 04/2023
 Volunteer | Data Analytics | LOVE.FÙTBOL
  
-09/22 – 02/2023
-Student | Data Analytics | CAREERFOUNDRY
-
 02/22 – 08/2022
-Recruiting & H.R. Mgr. | CHORUS.ONE (Crypto Start-up)
+HR Business Partner | CHORUS.ONE (Crypto Start-up)
  
 8/21 – 02/22
-SR. Recruiting | PADSPLIT (R.E. IT Start-up)
+HR Analyst | PADSPLIT (R.E. IT Start-up)
  
 2008-2013
 H.R. Generalist | NETFLIX (Entertainment IT)

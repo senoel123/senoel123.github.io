@@ -10,7 +10,7 @@ published: true
 ##  PROFESSIONAL EXPERIENCE PROFILE
 ---
 
-Highly skilled HR professional with over 15 years of experience in project management, human resource management, and data analytics. Proven track record of optimizing processes, implementing effective strategies, and leveraging data-driven methods to support business goals. Adept at managing cross-functional teams, driving project success, and delivering measurable outcomes.
+Highly skilled HR professional with experience in project management, human resource management, and data analytics. Proven track record of optimizing processes, implementing effective strategies, and leveraging data-driven methods to support business goals. Adept at managing cross-functional teams, driving project success, and delivering measurable outcomes.
 
 ![image](/images/Data_Science_Possible_Roles_fin.jpg)
 
@@ -54,7 +54,7 @@ Excel •	Postgre SQL •	Jupyter Notebook •	Python •	Tableau •	GitHub •
 
 KEY SKILLS: 
 ---
-Project Manager • Business Understanding •	Desining Data Research •	Project Data Profiling & Integrity Checks •	 Data Quality Measures (Cleaning) •	Data Integration & Transformation • Statistical Analysis •	Statistical Hypothesis Testing •	Data Visualization & Storytelling
+Project Management • Business Understanding •	Desining Data Research •	Project Data Profiling & Integrity Checks •	 Data Quality Measures (Cleaning) •	Data Integration & Transformation • Statistical Analysis •	Statistical Hypothesis Testing •	Data Visualization & Storytelling
 
 Please click on link to download my [CV](SEN_HR_PM.pdf).
 

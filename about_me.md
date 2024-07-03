@@ -7,10 +7,10 @@ published: true
 
 ---
 
-## DATA ANALYTICS PROFILE
+##  PROFESSIONAL EXPERIENCE PROFILE
 ---
 
-I am a data anaylst with a background in HR and more than five years of experience working in both early start-up environments and large multinational organizations. As a data analyst, my experience includes analyzing and communicating technical information to non-technical audiences.
+Highly skilled HR professional with over 15 years of experience in project management, human resource management, and data analytics. Proven track record of optimizing processes, implementing effective strategies, and leveraging data-driven methods to support business goals. Adept at managing cross-functional teams, driving project success, and delivering measurable outcomes.
 
 ![image](/images/Data_Science_Possible_Roles_fin.jpg)
 
@@ -18,11 +18,11 @@ I am a data anaylst with a background in HR and more than five years of experien
 
 ## WORK EXPERIENCE
 
-2019 - Till date
-Freelance | Business Analyst
+2020 - Till date
+Consultant | HR Consultant & PM (IT)
 
-12/22 – 04/2023
-Volunteer | Data Analytics | LOVE.FÙTBOL
+07/22 – 12/2023
+Recruiter | Recruiter | Designface
  
 02/22 – 08/2022
 HR Business Partner | CHORUS.ONE (Crypto Start-up)
@@ -35,7 +35,8 @@ H.R. Generalist | NETFLIX (Entertainment IT)
 
 VOLUNTEER PROJECTS
 ---
-ACDC - Board Menber Prospecting (2023)
+ACDC - Board Member Prospecting (2023)
+Luv.Futbol - Board Member Prospecting (2023)
 
 
 EDUCATION
@@ -53,7 +54,7 @@ Excel •	Postgre SQL •	Jupyter Notebook •	Python •	Tableau •	GitHub •
 
 KEY SKILLS: 
 ---
-Business Understanding •	Desining Data Research •	Project Data Profiling & Integrity Checks •	 Data Quality Measures (Cleaning) •	Data Integration & Transformation • Statistical Analysis •	Statistical Hypothesis Testing •	Data Visualization & Storytelling
+Project Manager • Business Understanding •	Desining Data Research •	Project Data Profiling & Integrity Checks •	 Data Quality Measures (Cleaning) •	Data Integration & Transformation • Statistical Analysis •	Statistical Hypothesis Testing •	Data Visualization & Storytelling
 
 Please click on link to download my [CV](https://github.com/senoel123/senoel123.github.io/raw/master/SEN_CV_7.pdf).
 

@@ -56,7 +56,7 @@ KEY SKILLS:
 ---
 Project Manager • Business Understanding •	Desining Data Research •	Project Data Profiling & Integrity Checks •	 Data Quality Measures (Cleaning) •	Data Integration & Transformation • Statistical Analysis •	Statistical Hypothesis Testing •	Data Visualization & Storytelling
 
-Please click on link to download my [CV](https://github.com/senoel123/senoel123.github.io/raw/master/SEN_CV_7.pdf).
+Please click on link to download my [CV](https://github.com/senoel123/senoel123.github.io/raw/master/SEN_HR_PM.pdf).
 
 Please click on link to download my [Portfolio](https://github.com/senoel123/senoel123.github.io/blob/master/Task_6.7_SEN.pdf).
 
